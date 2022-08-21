@@ -1,3 +1,4 @@
+require('dotenv').config()
 // Import Dependencies
 const express = require("express");
 const cors = require("cors");
@@ -30,7 +31,7 @@ app.get("/about", (req, res) => {
 });
 
 //declare a variable for our port number
-const PORT = process.env.PORT || 4000;
+const PORT = process.env.PORT || 4001;
 
 // turn on the server listener
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`));
