@@ -1,14 +1,32 @@
 [
   {
-    "name": "project1",
-    "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "name": "Elevar CRM",
+    "live": "https://elevarcrm.herokuapp.com/",
+    "git": "https://github.com/yinathan/Wine-Frontend",
+    "image": "https://i.imgur.com/vZf6dZi.png"
   },
   {
-    "name": "project2",
-    "live": "https://app.netlify.app/whatever",
+    "name": "The Vineyard",
+    "live": "https://sasquatch-winos.netlify.app/",
     "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "image": "https://i.imgur.com/UxrlDRq.jpg"
+  },
+    {
+    "name": "Breakout Game",
+    "live": "https://breakout-ny.netlify.app",
+    "git": "https://github.com/yinathan/breakout-game",
+    "image": "https://i.imgur.com/0Otgz7o.png"
+  },
+    {
+    "name": "Game Sale Deals",
+    "live": "https://game-sale-deals.netlify.app/",
+    "git": "https://github.com/yinathan/game-deals-app",
+    "image": "https://i.imgur.com/XDhZcsx.png"
+  },
+      {
+    "name": "Golf Store",
+    "live": "https://golf-store.herokuapp.com/store",
+    "git": "https://github.com/yinathan/golf-store",
+    "image": "https://i.imgur.com/ymIBkDD.png"
   }
 ]
